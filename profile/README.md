@@ -1,5 +1,7 @@
+# <a href="https://github.com/marinastudios/join">LOOKING FOR NEW MEMBERS</a>
 ## Marina Studios 🌊
 Marina Studios is a small web dev team soon to be an LLC.
+
 <!--
 
 **Here are some ideas to get you started:**
