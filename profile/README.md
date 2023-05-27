@@ -1,5 +1,5 @@
 ## Marina Studios 🌊
-Marina Studios is a web dev team based in VA, United States
+Marina Studios is a small web dev team soon to be an LLC.
 <!--
 
 **Here are some ideas to get you started:**
