@@ -1,4 +1,5 @@
-## Hi there 👋
+## Marina Studios
+Marina Studios is a web dev team based in Virginia
 
 <!--
 
